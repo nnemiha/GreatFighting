@@ -1,0 +1,1833 @@
+fileFormatVersion: 2
+guid: 70dc9dde0ecaa68478e4f7577fc8915e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5643112137628182029
+    second: SushiWarriorSpritesheet_0
+  - first:
+      213: 3907933963855259282
+    second: SushiWarriorSpritesheet_1
+  - first:
+      213: 3122432665210083835
+    second: SushiWarriorSpritesheet_2
+  - first:
+      213: 7739780076263426351
+    second: SushiWarriorSpritesheet_3
+  - first:
+      213: -915117530217468959
+    second: SushiWarriorSpritesheet_4
+  - first:
+      213: 8342284789533557266
+    second: SushiWarriorSpritesheet_5
+  - first:
+      213: -6960060008561502606
+    second: SushiWarriorSpritesheet_6
+  - first:
+      213: -5020977802258756663
+    second: SushiWarriorSpritesheet_7
+  - first:
+      213: -3160849675295644498
+    second: SushiWarriorSpritesheet_8
+  - first:
+      213: 493026454499198431
+    second: SushiWarriorSpritesheet_9
+  - first:
+      213: 4192453623246021679
+    second: SushiWarriorSpritesheet_10
+  - first:
+      213: -7175676253925587669
+    second: SushiWarriorSpritesheet_11
+  - first:
+      213: -3548771361350087195
+    second: SushiWarriorSpritesheet_12
+  - first:
+      213: -6668441328325426592
+    second: SushiWarriorSpritesheet_13
+  - first:
+      213: 4590503518769814779
+    second: SushiWarriorSpritesheet_14
+  - first:
+      213: -148368895724658513
+    second: SushiWarriorSpritesheet_15
+  - first:
+      213: 399658398977317797
+    second: SushiWarriorSpritesheet_16
+  - first:
+      213: 3701518637799968780
+    second: SushiWarriorSpritesheet_17
+  - first:
+      213: 4715623641612068394
+    second: SushiWarriorSpritesheet_18
+  - first:
+      213: -8729457953845689987
+    second: SushiWarriorSpritesheet_19
+  - first:
+      213: 1722003246247149538
+    second: SushiWarriorSpritesheet_20
+  - first:
+      213: -8732324639540072224
+    second: SushiWarriorSpritesheet_21
+  - first:
+      213: -1846216376398027079
+    second: SushiWarriorSpritesheet_22
+  - first:
+      213: 4990297293954829546
+    second: SushiWarriorSpritesheet_23
+  - first:
+      213: -2877598154584260097
+    second: SushiWarriorSpritesheet_24
+  - first:
+      213: -8906604920993729951
+    second: SushiWarriorSpritesheet_25
+  - first:
+      213: 7975924071813611340
+    second: SushiWarriorSpritesheet_26
+  - first:
+      213: 2986781497969273857
+    second: SushiWarriorSpritesheet_27
+  - first:
+      213: 2398933031173218179
+    second: SushiWarriorSpritesheet_28
+  - first:
+      213: -1300970411444440117
+    second: SushiWarriorSpritesheet_29
+  - first:
+      213: -8109446777004491551
+    second: SushiWarriorSpritesheet_30
+  - first:
+      213: 7882739119359946411
+    second: SushiWarriorSpritesheet_31
+  - first:
+      213: -8555060410660778804
+    second: SushiWarriorSpritesheet_32
+  - first:
+      213: 623005724118014827
+    second: SushiWarriorSpritesheet_33
+  - first:
+      213: -7477403586956592794
+    second: SushiWarriorSpritesheet_34
+  - first:
+      213: 3176151547088272433
+    second: SushiWarriorSpritesheet_35
+  - first:
+      213: -5536232154315195440
+    second: SushiWarriorSpritesheet_36
+  - first:
+      213: -8455340975330865897
+    second: SushiWarriorSpritesheet_37
+  - first:
+      213: 8240300157551450090
+    second: SushiWarriorSpritesheet_38
+  - first:
+      213: -3181036245288618520
+    second: SushiWarriorSpritesheet_39
+  - first:
+      213: 8015911901565650206
+    second: SushiWarriorSpritesheet_40
+  - first:
+      213: 8766545323786080556
+    second: SushiWarriorSpritesheet_41
+  - first:
+      213: -5285401068124926340
+    second: SushiWarriorSpritesheet_42
+  - first:
+      213: -8152364272514298781
+    second: SushiWarriorSpritesheet_43
+  - first:
+      213: 553884742247018021
+    second: SushiWarriorSpritesheet_44
+  - first:
+      213: -1525686365036243469
+    second: SushiWarriorSpritesheet_45
+  - first:
+      213: -2320402961666735798
+    second: SushiWarriorSpritesheet_46
+  - first:
+      213: 2350075990088813827
+    second: SushiWarriorSpritesheet_47
+  - first:
+      213: 2828922799165516703
+    second: SushiWarriorSpritesheet_48
+  - first:
+      213: 5206728389007245505
+    second: SushiWarriorSpritesheet_49
+  - first:
+      213: 7790099778613910728
+    second: SushiWarriorSpritesheet_50
+  - first:
+      213: -1723901256052692097
+    second: SushiWarriorSpritesheet_51
+  - first:
+      213: -5700122819171362134
+    second: SushiWarriorSpritesheet_52
+  - first:
+      213: -618243158806969576
+    second: SushiWarriorSpritesheet_53
+  - first:
+      213: 8992942804309496639
+    second: SushiWarriorSpritesheet_54
+  - first:
+      213: -1817394042542457310
+    second: SushiWarriorSpritesheet_55
+  - first:
+      213: -5953042356308915679
+    second: SushiWarriorSpritesheet_56
+  - first:
+      213: -2174323190225823397
+    second: SushiWarriorSpritesheet_57
+  - first:
+      213: -4815159804066644738
+    second: SushiWarriorSpritesheet_58
+  - first:
+      213: 7632319179526626158
+    second: SushiWarriorSpritesheet_59
+  - first:
+      213: 6045477303415727744
+    second: SushiWarriorSpritesheet_60
+  - first:
+      213: 5687086795259433310
+    second: SushiWarriorSpritesheet_61
+  - first:
+      213: 5759536226917558595
+    second: SushiWarriorSpritesheet_62
+  - first:
+      213: 7781492095587228188
+    second: SushiWarriorSpritesheet_63
+  - first:
+      213: 8772853209452725512
+    second: SushiWarriorSpritesheet_64
+  - first:
+      213: 673673825305510575
+    second: SushiWarriorSpritesheet_65
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SushiWarriorSpritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 516
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f91af8c863afa1b0800000000000000
+      internalID: -5643112137628182029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SushiWarriorSpritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 516
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 296e6492c35cb3630800000000000000
+      internalID: 3907933963855259282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SushiWarriorSpritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 452
+        width: 54
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf95ce437fb155b20800000000000000
+      internalID: 3122432665210083835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SushiWarriorSpritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 452
+        width: 55
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f29c355e8f8396b60800000000000000
+      internalID: 7739780076263426351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SushiWarriorSpritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 452
+        width: 58
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eba7ab6479dc43f0800000000000000
+      internalID: -915117530217468959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SushiWarriorSpritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 452
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 212ca4711dfb5c370800000000000000
+      internalID: 8342284789533557266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SushiWarriorSpritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 388
+        width: 54
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2761a465c46e86f90800000000000000
+      internalID: -6960060008561502606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SushiWarriorSpritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 388
+        width: 54
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cbce378a47e15ab0800000000000000
+      internalID: -5020977802258756663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SushiWarriorSpritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 388
+        width: 54
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea4289b97f76224d0800000000000000
+      internalID: -3160849675295644498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SushiWarriorSpritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 388
+        width: 54
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd58b4db2f497d600800000000000000
+      internalID: 493026454499198431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SushiWarriorSpritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 388
+        width: 54
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f24e0e69b569e2a30800000000000000
+      internalID: 4192453623246021679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SushiWarriorSpritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 324
+        width: 54
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b254f852770ea6c90800000000000000
+      internalID: -7175676253925587669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SushiWarriorSpritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 324
+        width: 54
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ed06a1cf3b30cec0800000000000000
+      internalID: -3548771361350087195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SushiWarriorSpritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 324
+        width: 54
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06201ab51ffe473a0800000000000000
+      internalID: -6668441328325426592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SushiWarriorSpritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 324
+        width: 54
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfc9478f0aeb4bf30800000000000000
+      internalID: 4590503518769814779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SushiWarriorSpritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 260
+        width: 54
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa06d928643e0fdf0800000000000000
+      internalID: -148368895724658513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SushiWarriorSpritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 260
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ab5b86423fdb8500800000000000000
+      internalID: 399658398977317797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SushiWarriorSpritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 260
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c001e8fe69f6e5330800000000000000
+      internalID: 3701518637799968780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SushiWarriorSpritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 260
+        width: 81
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a26a8b4b7b2417140800000000000000
+      internalID: 4715623641612068394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SushiWarriorSpritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 260
+        width: 81
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d71c15bdd3cbad680800000000000000
+      internalID: -8729457953845689987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SushiWarriorSpritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 260
+        width: 81
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ef71a234d8c5e710800000000000000
+      internalID: 1722003246247149538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SushiWarriorSpritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 196
+        width: 54
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e0b2d4910d80d680800000000000000
+      internalID: -8732324639540072224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SushiWarriorSpritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 196
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b66942ccfbe066e0800000000000000
+      internalID: -1846216376398027079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SushiWarriorSpritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 196
+        width: 57
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aec45c9f2f8114540800000000000000
+      internalID: 4990297293954829546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SushiWarriorSpritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 196
+        width: 52
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff18fad79b7b018d0800000000000000
+      internalID: -2877598154584260097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SushiWarriorSpritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 196
+        width: 52
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1623c697302656480800000000000000
+      internalID: -8906604920993729951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SushiWarriorSpritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 196
+        width: 65
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4fffef5fac20be60800000000000000
+      internalID: 7975924071813611340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SushiWarriorSpritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 196
+        width: 87
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10cea20a2fd237920800000000000000
+      internalID: 2986781497969273857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SushiWarriorSpritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 196
+        width: 113
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38fd70bb1e8ba4120800000000000000
+      internalID: 2398933031173218179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SushiWarriorSpritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 196
+        width: 84
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc37f8abd4602fde0800000000000000
+      internalID: -1300970411444440117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SushiWarriorSpritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 196
+        width: 43
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ecf5bb3f15757f80800000000000000
+      internalID: -8109446777004491551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SushiWarriorSpritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 196
+        width: 84
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bae668ae67d156d60800000000000000
+      internalID: 7882739119359946411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SushiWarriorSpritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 196
+        width: 43
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccc8e8612e1564980800000000000000
+      internalID: -8555060410660778804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SushiWarriorSpritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 196
+        width: 84
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6bd61fb76c55a800800000000000000
+      internalID: 623005724118014827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SushiWarriorSpritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 1355
+        y: 196
+        width: 43
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 669783dfd0dea3890800000000000000
+      internalID: -7477403586956592794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SushiWarriorSpritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 196
+        width: 84
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13cf00d0105f31c20800000000000000
+      internalID: 3176151547088272433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SushiWarriorSpritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 196
+        width: 43
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0db72f7103a5b23b0800000000000000
+      internalID: -5536232154315195440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SushiWarriorSpritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 1541
+        y: 196
+        width: 84
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71d49966e2898aa80800000000000000
+      internalID: -8455340975330865897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SushiWarriorSpritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 196
+        width: 42
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae71375955d6b5270800000000000000
+      internalID: 8240300157551450090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SushiWarriorSpritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 1669
+        y: 196
+        width: 84
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e5fde58360bad3d0800000000000000
+      internalID: -3181036245288618520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SushiWarriorSpritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 1797
+        y: 196
+        width: 54
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1585a3876d3e3f60800000000000000
+      internalID: 8015911901565650206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SushiWarriorSpritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 132
+        width: 54
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2191ab568609a970800000000000000
+      internalID: 8766545323786080556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SushiWarriorSpritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 132
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7e81f65bbb76a6b0800000000000000
+      internalID: -5285401068124926340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SushiWarriorSpritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 132
+        width: 54
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36c033123ebfcde80800000000000000
+      internalID: -8152364272514298781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SushiWarriorSpritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 132
+        width: 58
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52e642c0d3bcfa700800000000000000
+      internalID: 553884742247018021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SushiWarriorSpritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 132
+        width: 57
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f59b5d955ca3dae0800000000000000
+      internalID: -1525686365036243469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SushiWarriorSpritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 68
+        width: 54
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a410716ecc54ccfd0800000000000000
+      internalID: -2320402961666735798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SushiWarriorSpritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 68
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30d0b6869a52d9020800000000000000
+      internalID: 2350075990088813827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SushiWarriorSpritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 68
+        width: 57
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9ba34d2c4a524720800000000000000
+      internalID: 2828922799165516703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SushiWarriorSpritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 68
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c008b422e3024840800000000000000
+      internalID: 5206728389007245505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SushiWarriorSpritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 68
+        width: 54
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cc9125997efb1c60800000000000000
+      internalID: 7790099778613910728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SushiWarriorSpritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 70
+        width: 54
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7b2125f0f87318e0800000000000000
+      internalID: -1723901256052692097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SushiWarriorSpritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 71
+        width: 54
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaa513b1f7815e0b0800000000000000
+      internalID: -5700122819171362134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SushiWarriorSpritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 68
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 813ce766f1f8b67f0800000000000000
+      internalID: -618243158806969576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SushiWarriorSpritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 4
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f33d54875d95dcc70800000000000000
+      internalID: 8992942804309496639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SushiWarriorSpritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 4
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22e785d4fb157c6e0800000000000000
+      internalID: -1817394042542457310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SushiWarriorSpritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 2
+        width: 55
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12a4a5b748b826da0800000000000000
+      internalID: -5953042356308915679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SushiWarriorSpritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 4
+        width: 53
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5912bb149043d1e0800000000000000
+      internalID: -2174323190225823397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SushiWarriorSpritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 4
+        width: 54
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efc3ed58bad1d2db0800000000000000
+      internalID: -4815159804066644738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SushiWarriorSpritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 4
+        width: 69
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6bd5142bd17be960800000000000000
+      internalID: 7632319179526626158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SushiWarriorSpritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 1
+        width: 94
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 086e7cfb399d5e350800000000000000
+      internalID: 6045477303415727744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SushiWarriorSpritesheet_61
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1
+        width: 80
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e51d04e0f479cee40800000000000000
+      internalID: 5687086795259433310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SushiWarriorSpritesheet_62
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 36
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3492a6cdeabfdef40800000000000000
+      internalID: 5759536226917558595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SushiWarriorSpritesheet_63
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 1
+        width: 54
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1a9cf335d96dfb60800000000000000
+      internalID: 7781492095587228188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SushiWarriorSpritesheet_64
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 50
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8054310738f6fb970800000000000000
+      internalID: 8772853209452725512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SushiWarriorSpritesheet_65
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 1
+        width: 54
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa240db56ce595900800000000000000
+      internalID: 673673825305510575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SushiWarriorSpritesheet_0: -5643112137628182029
+      SushiWarriorSpritesheet_1: 3907933963855259282
+      SushiWarriorSpritesheet_10: 4192453623246021679
+      SushiWarriorSpritesheet_11: -7175676253925587669
+      SushiWarriorSpritesheet_12: -3548771361350087195
+      SushiWarriorSpritesheet_13: -6668441328325426592
+      SushiWarriorSpritesheet_14: 4590503518769814779
+      SushiWarriorSpritesheet_15: -148368895724658513
+      SushiWarriorSpritesheet_16: 399658398977317797
+      SushiWarriorSpritesheet_17: 3701518637799968780
+      SushiWarriorSpritesheet_18: 4715623641612068394
+      SushiWarriorSpritesheet_19: -8729457953845689987
+      SushiWarriorSpritesheet_2: 3122432665210083835
+      SushiWarriorSpritesheet_20: 1722003246247149538
+      SushiWarriorSpritesheet_21: -8732324639540072224
+      SushiWarriorSpritesheet_22: -1846216376398027079
+      SushiWarriorSpritesheet_23: 4990297293954829546
+      SushiWarriorSpritesheet_24: -2877598154584260097
+      SushiWarriorSpritesheet_25: -8906604920993729951
+      SushiWarriorSpritesheet_26: 7975924071813611340
+      SushiWarriorSpritesheet_27: 2986781497969273857
+      SushiWarriorSpritesheet_28: 2398933031173218179
+      SushiWarriorSpritesheet_29: -1300970411444440117
+      SushiWarriorSpritesheet_3: 7739780076263426351
+      SushiWarriorSpritesheet_30: -8109446777004491551
+      SushiWarriorSpritesheet_31: 7882739119359946411
+      SushiWarriorSpritesheet_32: -8555060410660778804
+      SushiWarriorSpritesheet_33: 623005724118014827
+      SushiWarriorSpritesheet_34: -7477403586956592794
+      SushiWarriorSpritesheet_35: 3176151547088272433
+      SushiWarriorSpritesheet_36: -5536232154315195440
+      SushiWarriorSpritesheet_37: -8455340975330865897
+      SushiWarriorSpritesheet_38: 8240300157551450090
+      SushiWarriorSpritesheet_39: -3181036245288618520
+      SushiWarriorSpritesheet_4: -915117530217468959
+      SushiWarriorSpritesheet_40: 8015911901565650206
+      SushiWarriorSpritesheet_41: 8766545323786080556
+      SushiWarriorSpritesheet_42: -5285401068124926340
+      SushiWarriorSpritesheet_43: -8152364272514298781
+      SushiWarriorSpritesheet_44: 553884742247018021
+      SushiWarriorSpritesheet_45: -1525686365036243469
+      SushiWarriorSpritesheet_46: -2320402961666735798
+      SushiWarriorSpritesheet_47: 2350075990088813827
+      SushiWarriorSpritesheet_48: 2828922799165516703
+      SushiWarriorSpritesheet_49: 5206728389007245505
+      SushiWarriorSpritesheet_5: 8342284789533557266
+      SushiWarriorSpritesheet_50: 7790099778613910728
+      SushiWarriorSpritesheet_51: -1723901256052692097
+      SushiWarriorSpritesheet_52: -5700122819171362134
+      SushiWarriorSpritesheet_53: -618243158806969576
+      SushiWarriorSpritesheet_54: 8992942804309496639
+      SushiWarriorSpritesheet_55: -1817394042542457310
+      SushiWarriorSpritesheet_56: -5953042356308915679
+      SushiWarriorSpritesheet_57: -2174323190225823397
+      SushiWarriorSpritesheet_58: -4815159804066644738
+      SushiWarriorSpritesheet_59: 7632319179526626158
+      SushiWarriorSpritesheet_6: -6960060008561502606
+      SushiWarriorSpritesheet_60: 6045477303415727744
+      SushiWarriorSpritesheet_61: 5687086795259433310
+      SushiWarriorSpritesheet_62: 5759536226917558595
+      SushiWarriorSpritesheet_63: 7781492095587228188
+      SushiWarriorSpritesheet_64: 8772853209452725512
+      SushiWarriorSpritesheet_65: 673673825305510575
+      SushiWarriorSpritesheet_7: -5020977802258756663
+      SushiWarriorSpritesheet_8: -3160849675295644498
+      SushiWarriorSpritesheet_9: 493026454499198431
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

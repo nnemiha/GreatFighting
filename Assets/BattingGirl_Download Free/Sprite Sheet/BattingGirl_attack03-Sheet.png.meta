@@ -1,0 +1,403 @@
+fileFormatVersion: 2
+guid: dc352c136a9b28a4babb92a3e074b1b3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6594098417060322230
+    second: BattingGirl_attack03-Sheet_0
+  - first:
+      213: 6118606822531479267
+    second: BattingGirl_attack03-Sheet_1
+  - first:
+      213: 5474631165060947795
+    second: BattingGirl_attack03-Sheet_2
+  - first:
+      213: 7760045372060345459
+    second: BattingGirl_attack03-Sheet_3
+  - first:
+      213: 7108196028513637619
+    second: BattingGirl_attack03-Sheet_4
+  - first:
+      213: -6114209335783325587
+    second: BattingGirl_attack03-Sheet_5
+  - first:
+      213: 1196904153702678125
+    second: BattingGirl_attack03-Sheet_6
+  - first:
+      213: -4135126479746244175
+    second: BattingGirl_attack03-Sheet_7
+  - first:
+      213: 755572292261773604
+    second: BattingGirl_attack03-Sheet_8
+  - first:
+      213: -6585554610096498600
+    second: BattingGirl_attack03-Sheet_9
+  - first:
+      213: 8341615998908598968
+    second: BattingGirl_attack03-Sheet_10
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BattingGirl_attack03-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 4
+        width: 46
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bb98d2c291f28b50800000000000000
+      internalID: 6594098417060322230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattingGirl_attack03-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 4
+        width: 29
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e63541cc78a9e450800000000000000
+      internalID: 6118606822531479267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattingGirl_attack03-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 4
+        width: 32
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35f9dbde90cc9fb40800000000000000
+      internalID: 5474631165060947795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattingGirl_attack03-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 4
+        width: 33
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3742292c62831bb60800000000000000
+      internalID: 7760045372060345459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattingGirl_attack03-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 4
+        width: 31
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f4d56980a265a260800000000000000
+      internalID: 7108196028513637619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattingGirl_attack03-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 4
+        width: 50
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d60024ae007f52ba0800000000000000
+      internalID: -6114209335783325587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattingGirl_attack03-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 3
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6e33af7cf14c9010800000000000000
+      internalID: 1196904153702678125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattingGirl_attack03-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 3
+        width: 97
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b1e96120641d96c0800000000000000
+      internalID: -4135126479746244175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattingGirl_attack03-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 3
+        width: 56
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42104622ff45c7a00800000000000000
+      internalID: 755572292261773604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattingGirl_attack03-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 3
+        width: 67
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 858134059f86b94a0800000000000000
+      internalID: -6585554610096498600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattingGirl_attack03-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 3
+        width: 57
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ba89a32e8f53c370800000000000000
+      internalID: 8341615998908598968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BattingGirl_attack03-Sheet_0: 6594098417060322230
+      BattingGirl_attack03-Sheet_1: 6118606822531479267
+      BattingGirl_attack03-Sheet_10: 8341615998908598968
+      BattingGirl_attack03-Sheet_2: 5474631165060947795
+      BattingGirl_attack03-Sheet_3: 7760045372060345459
+      BattingGirl_attack03-Sheet_4: 7108196028513637619
+      BattingGirl_attack03-Sheet_5: -6114209335783325587
+      BattingGirl_attack03-Sheet_6: 1196904153702678125
+      BattingGirl_attack03-Sheet_7: -4135126479746244175
+      BattingGirl_attack03-Sheet_8: 755572292261773604
+      BattingGirl_attack03-Sheet_9: -6585554610096498600
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

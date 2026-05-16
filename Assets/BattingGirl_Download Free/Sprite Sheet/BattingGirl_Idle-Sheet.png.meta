@@ -1,0 +1,507 @@
+fileFormatVersion: 2
+guid: d592c933d761ee64f97e16edd93d8824
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3967928809368463681
+    second: BattingGirl_Idle-Sheet_0
+  - first:
+      213: -3520204030241404814
+    second: BattingGirl_Idle-Sheet_1
+  - first:
+      213: 6404538429998759195
+    second: BattingGirl_Idle-Sheet_2
+  - first:
+      213: -3831009076765708896
+    second: BattingGirl_Idle-Sheet_3
+  - first:
+      213: 2134913758560183076
+    second: BattingGirl_Idle-Sheet_4
+  - first:
+      213: -1223134736012910922
+    second: BattingGirl_Idle-Sheet_5
+  - first:
+      213: 7026397950537616349
+    second: BattingGirl_Idle-Sheet_6
+  - first:
+      213: -646919208697509738
+    second: BattingGirl_Idle-Sheet_7
+  - first:
+      213: -3803364936949207567
+    second: BattingGirl_Idle-Sheet_8
+  - first:
+      213: -9055598154640879997
+    second: BattingGirl_Idle-Sheet_9
+  - first:
+      213: 3971609697817955624
+    second: BattingGirl_Idle-Sheet_10
+  - first:
+      213: 7517577658713935612
+    second: BattingGirl_Idle-Sheet_11
+  - first:
+      213: 8350346945145237711
+    second: BattingGirl_Idle-Sheet_12
+  - first:
+      213: -8225396630966606100
+    second: BattingGirl_Idle-Sheet_13
+  - first:
+      213: 4154915338437603501
+    second: BattingGirl_Idle-Sheet_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BattingGirl_Idle-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 4
+        width: 55
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1492278aa3ae01730800000000000000
+      internalID: 3967928809368463681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattingGirl_Idle-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 4
+        width: 55
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2780098d519b52fc0800000000000000
+      internalID: -3520204030241404814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattingGirl_Idle-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 4
+        width: 56
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1df966f4cd71e850800000000000000
+      internalID: 6404538429998759195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattingGirl_Idle-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 4
+        width: 55
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ad2510da8585dac0800000000000000
+      internalID: -3831009076765708896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattingGirl_Idle-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 4
+        width: 55
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 423e21d80ccb0ad10800000000000000
+      internalID: 2134913758560183076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattingGirl_Idle-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 4
+        width: 55
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6be5283207d860fe0800000000000000
+      internalID: -1223134736012910922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattingGirl_Idle-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 4
+        width: 56
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddbc35465b7c28160800000000000000
+      internalID: 7026397950537616349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattingGirl_Idle-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 4
+        width: 55
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 698453f386ea507f0800000000000000
+      internalID: -646919208697509738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattingGirl_Idle-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 4
+        width: 55
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fd67fdadbbb73bc0800000000000000
+      internalID: -3803364936949207567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattingGirl_Idle-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 4
+        width: 55
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38e82fbf47d045280800000000000000
+      internalID: -9055598154640879997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattingGirl_Idle-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 4
+        width: 56
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82d8fe84afdfd1730800000000000000
+      internalID: 3971609697817955624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattingGirl_Idle-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 4
+        width: 55
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfe8e0ffc0dc35860800000000000000
+      internalID: 7517577658713935612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattingGirl_Idle-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 4
+        width: 55
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc076a8fd4462e370800000000000000
+      internalID: 8350346945145237711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattingGirl_Idle-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 4
+        width: 55
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce66a8a185589dd80800000000000000
+      internalID: -8225396630966606100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattingGirl_Idle-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 4
+        width: 56
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da035639c7939a930800000000000000
+      internalID: 4154915338437603501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BattingGirl_Idle-Sheet_0: 3967928809368463681
+      BattingGirl_Idle-Sheet_1: -3520204030241404814
+      BattingGirl_Idle-Sheet_10: 3971609697817955624
+      BattingGirl_Idle-Sheet_11: 7517577658713935612
+      BattingGirl_Idle-Sheet_12: 8350346945145237711
+      BattingGirl_Idle-Sheet_13: -8225396630966606100
+      BattingGirl_Idle-Sheet_14: 4154915338437603501
+      BattingGirl_Idle-Sheet_2: 6404538429998759195
+      BattingGirl_Idle-Sheet_3: -3831009076765708896
+      BattingGirl_Idle-Sheet_4: 2134913758560183076
+      BattingGirl_Idle-Sheet_5: -1223134736012910922
+      BattingGirl_Idle-Sheet_6: 7026397950537616349
+      BattingGirl_Idle-Sheet_7: -646919208697509738
+      BattingGirl_Idle-Sheet_8: -3803364936949207567
+      BattingGirl_Idle-Sheet_9: -9055598154640879997
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

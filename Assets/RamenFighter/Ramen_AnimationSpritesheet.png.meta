@@ -1,0 +1,1209 @@
+fileFormatVersion: 2
+guid: e155fba35345d4d4bb3efedcff6bb025
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7746791163774435869
+    second: Ramen_AnimationSpritesheet_0
+  - first:
+      213: 2809368404424491891
+    second: Ramen_AnimationSpritesheet_1
+  - first:
+      213: 7074621019650585334
+    second: Ramen_AnimationSpritesheet_2
+  - first:
+      213: -2914285788823257783
+    second: Ramen_AnimationSpritesheet_3
+  - first:
+      213: 9183928548565416653
+    second: Ramen_AnimationSpritesheet_4
+  - first:
+      213: -8287932471308056661
+    second: Ramen_AnimationSpritesheet_5
+  - first:
+      213: -4976963179841604611
+    second: Ramen_AnimationSpritesheet_6
+  - first:
+      213: -2383712755651872593
+    second: Ramen_AnimationSpritesheet_7
+  - first:
+      213: 1486668597383523643
+    second: Ramen_AnimationSpritesheet_8
+  - first:
+      213: -8228134904464903256
+    second: Ramen_AnimationSpritesheet_9
+  - first:
+      213: 6656385607366018045
+    second: Ramen_AnimationSpritesheet_10
+  - first:
+      213: 4454672971209598855
+    second: Ramen_AnimationSpritesheet_11
+  - first:
+      213: 4776904954474530932
+    second: Ramen_AnimationSpritesheet_12
+  - first:
+      213: -7732423505904471507
+    second: Ramen_AnimationSpritesheet_13
+  - first:
+      213: 1271623376575607155
+    second: Ramen_AnimationSpritesheet_14
+  - first:
+      213: 2012430345813205787
+    second: Ramen_AnimationSpritesheet_15
+  - first:
+      213: 4764817613328547381
+    second: Ramen_AnimationSpritesheet_16
+  - first:
+      213: 7348363268476197693
+    second: Ramen_AnimationSpritesheet_17
+  - first:
+      213: -6244515873670881659
+    second: Ramen_AnimationSpritesheet_18
+  - first:
+      213: -1879283010077541178
+    second: Ramen_AnimationSpritesheet_19
+  - first:
+      213: 3101184265150308823
+    second: Ramen_AnimationSpritesheet_20
+  - first:
+      213: -2503211987328833218
+    second: Ramen_AnimationSpritesheet_21
+  - first:
+      213: 5148964424896837023
+    second: Ramen_AnimationSpritesheet_22
+  - first:
+      213: -6096188317477349240
+    second: Ramen_AnimationSpritesheet_23
+  - first:
+      213: 3502910519798522972
+    second: Ramen_AnimationSpritesheet_24
+  - first:
+      213: -4157156971315984029
+    second: Ramen_AnimationSpritesheet_25
+  - first:
+      213: -4022858533956262958
+    second: Ramen_AnimationSpritesheet_26
+  - first:
+      213: 1196017116590096496
+    second: Ramen_AnimationSpritesheet_27
+  - first:
+      213: -4687334944831086021
+    second: Ramen_AnimationSpritesheet_28
+  - first:
+      213: 8622883035970739299
+    second: Ramen_AnimationSpritesheet_29
+  - first:
+      213: -5241950566745302608
+    second: Ramen_AnimationSpritesheet_30
+  - first:
+      213: 1556869829270772675
+    second: Ramen_AnimationSpritesheet_31
+  - first:
+      213: -7703933542541650994
+    second: Ramen_AnimationSpritesheet_32
+  - first:
+      213: 8114925833734826357
+    second: Ramen_AnimationSpritesheet_33
+  - first:
+      213: -5955651386796100026
+    second: Ramen_AnimationSpritesheet_34
+  - first:
+      213: 4090556732387020256
+    second: Ramen_AnimationSpritesheet_35
+  - first:
+      213: -8929034788380466725
+    second: Ramen_AnimationSpritesheet_36
+  - first:
+      213: -1263546876727038097
+    second: Ramen_AnimationSpritesheet_37
+  - first:
+      213: 7147672851294082058
+    second: Ramen_AnimationSpritesheet_38
+  - first:
+      213: -889864113353902741
+    second: Ramen_AnimationSpritesheet_39
+  - first:
+      213: 6389629074278721916
+    second: Ramen_AnimationSpritesheet_40
+  - first:
+      213: -3907516585053930363
+    second: Ramen_AnimationSpritesheet_41
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ramen_AnimationSpritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 392
+        width: 54
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3edf6161b7edd7490800000000000000
+      internalID: -7746791163774435869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ramen_AnimationSpritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 392
+        width: 54
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3738decdda1ecf620800000000000000
+      internalID: 2809368404424491891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ramen_AnimationSpritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 392
+        width: 54
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f2f8cc955a1e2260800000000000000
+      internalID: 7074621019650585334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ramen_AnimationSpritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 392
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94d783ff3806e87d0800000000000000
+      internalID: -2914285788823257783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ramen_AnimationSpritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 328
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dca7fcb3b5ed37f70800000000000000
+      internalID: 9183928548565416653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ramen_AnimationSpritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 328
+        width: 54
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba7024524595bfc80800000000000000
+      internalID: -8287932471308056661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ramen_AnimationSpritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 328
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df3b7556b564eeab0800000000000000
+      internalID: -4976963179841604611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ramen_AnimationSpritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 328
+        width: 54
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa87dc0d0e95beed0800000000000000
+      internalID: -2383712755651872593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ramen_AnimationSpritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 328
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3de5cd6635b1a410800000000000000
+      internalID: 1486668597383523643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ramen_AnimationSpritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 264
+        width: 54
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a3706f16eacfcd80800000000000000
+      internalID: -8228134904464903256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ramen_AnimationSpritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 264
+        width: 53
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df3031f517b306c50800000000000000
+      internalID: 6656385607366018045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ramen_AnimationSpritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 264
+        width: 53
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7876b77277d22dd30800000000000000
+      internalID: 4454672971209598855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ramen_AnimationSpritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 264
+        width: 53
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47802493fb9fa4240800000000000000
+      internalID: 4776904954474530932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ramen_AnimationSpritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 264
+        width: 53
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d22fead1ac9e0b490800000000000000
+      internalID: -7732423505904471507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ramen_AnimationSpritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 264
+        width: 51
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3713fd049b6b5a110800000000000000
+      internalID: 1271623376575607155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ramen_AnimationSpritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 264
+        width: 53
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b13a969bcb69deb10800000000000000
+      internalID: 2012430345813205787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ramen_AnimationSpritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 200
+        width: 54
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53ef8fdcf58002240800000000000000
+      internalID: 4764817613328547381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ramen_AnimationSpritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 200
+        width: 56
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3b5d0a9571aaf560800000000000000
+      internalID: 7348363268476197693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ramen_AnimationSpritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 200
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58e1f83d5e50759a0800000000000000
+      internalID: -6244515873670881659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ramen_AnimationSpritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 136
+        width: 54
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ccb6e72f027be5e0800000000000000
+      internalID: -1879283010077541178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ramen_AnimationSpritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 136
+        width: 54
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d1a05b88ae990b20800000000000000
+      internalID: 3101184265150308823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ramen_AnimationSpritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 136
+        width: 55
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e39e3c9c5fdc24dd0800000000000000
+      internalID: -2503211987328833218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ramen_AnimationSpritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 136
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9579133ddbc47740800000000000000
+      internalID: 5148964424896837023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ramen_AnimationSpritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 136
+        width: 90
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88850e4360df56ba0800000000000000
+      internalID: -6096188317477349240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ramen_AnimationSpritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 136
+        width: 86
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c54e19cfe86dc9030800000000000000
+      internalID: 3502910519798522972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ramen_AnimationSpritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 136
+        width: 56
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3690c2992cfce46c0800000000000000
+      internalID: -4157156971315984029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ramen_AnimationSpritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 72
+        width: 54
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d363e53a7feb28c0800000000000000
+      internalID: -4022858533956262958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ramen_AnimationSpritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 72
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 070c3a31b3b199010800000000000000
+      internalID: 1196017116590096496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ramen_AnimationSpritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 72
+        width: 54
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b326116c3bd33feb0800000000000000
+      internalID: -4687334944831086021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ramen_AnimationSpritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 72
+        width: 54
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36c17ca6f62aaa770800000000000000
+      internalID: 8622883035970739299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ramen_AnimationSpritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 74
+        width: 54
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b91dfa8bb9d047b0800000000000000
+      internalID: -5241950566745302608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ramen_AnimationSpritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 75
+        width: 54
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cb153f6cdc1b9510800000000000000
+      internalID: 1556869829270772675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ramen_AnimationSpritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 74
+        width: 54
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec3969f9241261590800000000000000
+      internalID: -7703933542541650994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ramen_AnimationSpritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 8
+        width: 54
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 579a7621d020e9070800000000000000
+      internalID: 8114925833734826357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ramen_AnimationSpritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 8
+        width: 54
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 646b4fb3e96495da0800000000000000
+      internalID: -5955651386796100026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ramen_AnimationSpritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 8
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0edc287eca394c830800000000000000
+      internalID: 4090556732387020256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ramen_AnimationSpritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 8
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd12a730b22b51480800000000000000
+      internalID: -8929034788380466725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ramen_AnimationSpritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 8
+        width: 63
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6f61a76fcaf67ee0800000000000000
+      internalID: -1263546876727038097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ramen_AnimationSpritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 8
+        width: 76
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0456189692a13360800000000000000
+      internalID: 7147672851294082058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ramen_AnimationSpritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 8
+        width: 75
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b653c29bd4196a3f0800000000000000
+      internalID: -889864113353902741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ramen_AnimationSpritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 8
+        width: 75
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7924e21ac58ca850800000000000000
+      internalID: 6389629074278721916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ramen_AnimationSpritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 8
+        width: 56
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58cb9e96e56b5c9c0800000000000000
+      internalID: -3907516585053930363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Ramen_AnimationSpritesheet_0: -7746791163774435869
+      Ramen_AnimationSpritesheet_1: 2809368404424491891
+      Ramen_AnimationSpritesheet_10: 6656385607366018045
+      Ramen_AnimationSpritesheet_11: 4454672971209598855
+      Ramen_AnimationSpritesheet_12: 4776904954474530932
+      Ramen_AnimationSpritesheet_13: -7732423505904471507
+      Ramen_AnimationSpritesheet_14: 1271623376575607155
+      Ramen_AnimationSpritesheet_15: 2012430345813205787
+      Ramen_AnimationSpritesheet_16: 4764817613328547381
+      Ramen_AnimationSpritesheet_17: 7348363268476197693
+      Ramen_AnimationSpritesheet_18: -6244515873670881659
+      Ramen_AnimationSpritesheet_19: -1879283010077541178
+      Ramen_AnimationSpritesheet_2: 7074621019650585334
+      Ramen_AnimationSpritesheet_20: 3101184265150308823
+      Ramen_AnimationSpritesheet_21: -2503211987328833218
+      Ramen_AnimationSpritesheet_22: 5148964424896837023
+      Ramen_AnimationSpritesheet_23: -6096188317477349240
+      Ramen_AnimationSpritesheet_24: 3502910519798522972
+      Ramen_AnimationSpritesheet_25: -4157156971315984029
+      Ramen_AnimationSpritesheet_26: -4022858533956262958
+      Ramen_AnimationSpritesheet_27: 1196017116590096496
+      Ramen_AnimationSpritesheet_28: -4687334944831086021
+      Ramen_AnimationSpritesheet_29: 8622883035970739299
+      Ramen_AnimationSpritesheet_3: -2914285788823257783
+      Ramen_AnimationSpritesheet_30: -5241950566745302608
+      Ramen_AnimationSpritesheet_31: 1556869829270772675
+      Ramen_AnimationSpritesheet_32: -7703933542541650994
+      Ramen_AnimationSpritesheet_33: 8114925833734826357
+      Ramen_AnimationSpritesheet_34: -5955651386796100026
+      Ramen_AnimationSpritesheet_35: 4090556732387020256
+      Ramen_AnimationSpritesheet_36: -8929034788380466725
+      Ramen_AnimationSpritesheet_37: -1263546876727038097
+      Ramen_AnimationSpritesheet_38: 7147672851294082058
+      Ramen_AnimationSpritesheet_39: -889864113353902741
+      Ramen_AnimationSpritesheet_4: 9183928548565416653
+      Ramen_AnimationSpritesheet_40: 6389629074278721916
+      Ramen_AnimationSpritesheet_41: -3907516585053930363
+      Ramen_AnimationSpritesheet_5: -8287932471308056661
+      Ramen_AnimationSpritesheet_6: -4976963179841604611
+      Ramen_AnimationSpritesheet_7: -2383712755651872593
+      Ramen_AnimationSpritesheet_8: 1486668597383523643
+      Ramen_AnimationSpritesheet_9: -8228134904464903256
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
