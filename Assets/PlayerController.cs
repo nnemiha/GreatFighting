@@ -1,6 +1,7 @@
 using UnityEngine;
 using System.Collections;
 using System.Diagnostics;
+using ThomasDev.HealthDamageSystem;
 
 public class PlayerController : MonoBehaviour {
 
@@ -9,7 +10,9 @@ public class PlayerController : MonoBehaviour {
 
     private Animator            m_animator;
     private Rigidbody2D         m_body2d;
+    private BoxCollider2D       m_boxCollider;
     private Bancho_sensor       m_groundSensor;
+    private Health              m_health;
     private bool                m_grounded = false;
     private bool                m_isDead = false;
     int clickStep = 0;
@@ -21,10 +24,19 @@ public class PlayerController : MonoBehaviour {
         m_animator = GetComponent<Animator>();
         m_body2d = GetComponent<Rigidbody2D>();
         m_groundSensor = GetComponentInChildren<Bancho_sensor>();
+        m_health = GetComponent<Health>();
+        m_boxCollider = GetComponent<BoxCollider2D>();
+
+        if (m_health != null)
+        {
+            m_health.OnDamaged.AddListener(OnCharacterDamaged);
+            m_health.OnDeath.AddListener(OnCharacterDeath); 
+        }
     }
 	
 	// Update is called once per frame
 	void Update () {
+        if (m_isDead) return;
         //Check if character just landed on the ground
         if (!m_grounded && m_groundSensor.State()) {
             m_grounded = true;
@@ -37,7 +49,7 @@ public class PlayerController : MonoBehaviour {
             m_animator.SetBool("Grounded", m_grounded);
         }
 
-        else if (Input.GetKeyDown("f"))
+        if (Input.GetKeyDown("f"))
         {
             bool isBlocking = m_animator.GetBool("isBlocking");
             m_animator.SetBool("isBlocking", true);
@@ -64,7 +76,7 @@ public class PlayerController : MonoBehaviour {
         //    transform.localScale = new Vector3(1.0f, 1.0f, 1.0f);
 
         // Move
-        m_body2d.linearVelocity = new Vector2(inputX * m_speed, m_body2d.linearVelocity.y);
+        m_body2d.linearVelocity = new Vector2(inputX * currentSpeed, m_body2d.linearVelocity.y);
         
 
         //Set AirSpeed in animator
@@ -82,14 +94,21 @@ public class PlayerController : MonoBehaviour {
 
 
         if (Input.GetKeyDown("e")) {
-            if(!m_isDead)
+            if(!m_isDead) OnCharacterDeath();
                 m_animator.SetTrigger("Die");
             m_isDead = !m_isDead;
         }
             
         //Hurt
         else if (Input.GetKeyDown("q"))
+        {
             m_animator.SetTrigger("Hurt");
+            if (m_health != null)
+            {
+                m_health.TakeDamage(10f);
+            }
+        }
+            
 
         
 
@@ -129,4 +148,24 @@ public class PlayerController : MonoBehaviour {
                 clickStep = 0;
             }
         }
+    void OnCharacterDamaged(float currentHealth, float maxHealth)
+    {
+        if (m_animator.GetBool("isBlocking"))
+        {
+            m_animator.SetTrigger("Hurt");
+        }
+    }
+    void OnCharacterDeath()
+    {
+        if (!m_isDead)
+        {
+            m_isDead = true;
+            //m_boxCollider.size = new Vector2(m_boxCollider.size.x, 0.2f);
+            m_boxCollider.offset += new Vector2(m_boxCollider.offset.x, 0.30f);
+            m_animator.SetTrigger("Die");
+            m_body2d.linearVelocity = Vector2.zero;
+            m_body2d.constraints = RigidbodyConstraints2D.FreezePositionX | RigidbodyConstraints2D.FreezeRotation;
+
+        }
+    }
 }
