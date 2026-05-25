@@ -1,13 +1,15 @@
 using UnityEngine;
 using System.Collections;
-using System.Diagnostics;
 using ThomasDev.HealthDamageSystem;
+using System.Diagnostics;
+using Debug = UnityEngine.Debug;
+
+
 
 public class PlayerController : MonoBehaviour {
-
+    [Header("Movement")]
     [SerializeField] float      m_speed = 4.0f;
     [SerializeField] float      m_jumpForce = 7.5f;
-
     private Animator            m_animator;
     private Rigidbody2D         m_body2d;
     private BoxCollider2D       m_boxCollider;
@@ -15,9 +17,19 @@ public class PlayerController : MonoBehaviour {
     private Health              m_health;
     private bool                m_grounded = false;
     private bool                m_isDead = false;
+    private bool                m_isFacingRight = true;
     int clickStep = 0;
     float lastClickTime = 0f;
     float resetTime = 0.8f;
+    [Header("Оружие")]
+    public Transform m_attackPos;
+    public LayerMask m_enemy;
+    public float m_radius = 0.5f;
+    public int m_damage = 25;
+    private float m_recharge;
+    public float m_startRecharge = 0.4f;
+    
+
 
     // Use this for initialization
     void Start () {
@@ -26,6 +38,7 @@ public class PlayerController : MonoBehaviour {
         m_groundSensor = GetComponentInChildren<Bancho_sensor>();
         m_health = GetComponent<Health>();
         m_boxCollider = GetComponent<BoxCollider2D>();
+        m_recharge = 0f;
 
         if (m_health != null)
         {
@@ -36,6 +49,7 @@ public class PlayerController : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
+        float inputX = Input.GetAxis("Horizontal");
         if (m_isDead) return;
         //Check if character just landed on the ground
         if (!m_grounded && m_groundSensor.State()) {
@@ -60,8 +74,24 @@ public class PlayerController : MonoBehaviour {
             m_animator.SetBool("isBlocking", false);
         }
 
+        if (m_recharge >= m_startRecharge)
+        {
+            if (Input.GetMouseButtonDown(0))
+            {
+                AutoFlipToNearestEnemy();
+
+                m_animator.SetTrigger("Attack");
+                m_recharge = 0;
+            }
+            
+        }
+        else
+        {
+            m_recharge += Time.deltaTime;
+        }
+
         // -- Handle input and movement --
-        float inputX = Input.GetAxis("Horizontal");
+        
 
         float currentSpeed = m_speed;
         if (m_animator.GetBool("isBlocking"))
@@ -85,18 +115,16 @@ public class PlayerController : MonoBehaviour {
         // -- Handle Animations --
         
 
-        if(Input.GetMouseButtonDown(0)) {
-            if (Input.GetMouseButtonDown(0))
-            {
-                MakeCombo();
-            }
-        }
+        // if(Input.GetMouseButtonDown(0)) {
+            // if (Input.GetMouseButtonDown(0))
+            // {
+                // MakeCombo();
+            // }
+        // }
 
 
         if (Input.GetKeyDown("e")) {
             if(!m_isDead) OnCharacterDeath();
-                m_animator.SetTrigger("Die");
-            m_isDead = !m_isDead;
         }
             
         //Hurt
@@ -126,34 +154,73 @@ public class PlayerController : MonoBehaviour {
         }
 
     }
-    void MakeCombo()
+    // void MakeCombo()
+        // {
+            // if (Time.time - lastClickTime > resetTime)
+            // {
+                // clickStep = 0;
+            // }
+            // lastClickTime = Time.time;
+            // clickStep++;
+            // if (clickStep == 1)
+            // {
+                // m_animator.SetTrigger("Attack");
+            // }
+            // else if (clickStep == 2)
+            // {
+                // m_animator.SetTrigger("Attack2");
+            // }
+            // else if (clickStep == 3)
+            // {
+                // m_animator.SetTrigger("Attack3");
+                // clickStep = 0;
+            // }
+        // }
+    void AutoFlipToNearestEnemy()
+    {
+        Collider2D[] hitEnemies = Physics2D.OverlapCircleAll(transform.position, 3.0f, m_enemy);
+        
+        if (hitEnemies.Length > 0)
         {
-            if (Time.time - lastClickTime > resetTime)
+            Transform nearestEnemy = hitEnemies[0].transform;
+
+            if (nearestEnemy.position.x > transform.position.x && !m_isFacingRight)
             {
-                clickStep = 0;
+                FlipPlayer();
             }
-            lastClickTime = Time.time;
-            clickStep++;
-            if (clickStep == 1)
+            else if (nearestEnemy.position.x < transform.position.x && m_isFacingRight)
             {
-                m_animator.SetTrigger("Attack");
-            }
-            else if (clickStep == 2)
-            {
-                m_animator.SetTrigger("Attack2");
-            }
-            else if (clickStep == 3)
-            {
-                m_animator.SetTrigger("Attack3");
-                clickStep = 0;
+                FlipPlayer();
             }
         }
+    }
     void OnCharacterDamaged(float currentHealth, float maxHealth)
     {
         if (m_animator.GetBool("isBlocking"))
         {
             m_animator.SetTrigger("Hurt");
         }
+    }
+    public void OnAttack()
+    {
+        Collider2D[] enemies = Physics2D.OverlapCircleAll(m_attackPos.position, m_radius, m_enemy);
+        for (int i = 0; i < enemies.Length; i++)
+        {
+            
+            //enemies[i].GetComponent<Enemy>().TakeDamage(m_damage);
+            Health enemyHealth = enemies[i].GetComponent<Health>();
+            if (enemyHealth != null)
+            {
+                enemyHealth.TakeDamage((float)m_damage);
+                Debug.Log("Попадание по: " + enemies[i].name);
+            }
+
+        }
+    }
+    void OnDrawGizmosSelected()
+    {
+        Gizmos.color = Color.black;
+        Gizmos.DrawWireSphere(m_attackPos.position, m_radius);
     }
     void OnCharacterDeath()
     {
@@ -167,5 +234,20 @@ public class PlayerController : MonoBehaviour {
             m_body2d.constraints = RigidbodyConstraints2D.FreezePositionX | RigidbodyConstraints2D.FreezeRotation;
 
         }
+    }
+    public void TakeDamage (int damage)
+    {
+        if (m_health != null)
+        {
+            m_health.TakeDamage((float)damage);
+        }
+    }
+
+    void FlipPlayer()
+    {
+        m_isFacingRight = !m_isFacingRight;
+        Vector3 scaler = transform.localScale;
+        scaler.x *= -1;
+        transform.localScale = scaler;
     }
 }
